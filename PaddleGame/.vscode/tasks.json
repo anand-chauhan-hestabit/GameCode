@@ -1,0 +1,50 @@
+{
+    "version": "2.0.0",
+    "tasks": [
+        {
+            "label": "Build g++",
+            "type": "shell",
+            "command": "/usr/bin/g++",
+            "args": [
+                "-g",
+                "-o",
+                "output/g++_output",
+                "source.cpp"
+            ],
+            "group": {
+                "kind": "build",
+                "isDefault": true
+            }
+        },
+        {
+            "label": "Build clang",
+            "type": "shell",
+            "command": "/usr/bin/clang++",
+            "args": [
+                "-g",
+                "-o",
+                "output/clang_output",
+                "source.cpp"
+            ],
+            "group": {
+                "kind": "build",
+                "isDefault": true
+            }
+        },
+        {
+            "label": "Build MinGW",
+            "type": "shell",
+            "command": "x86_64-w64-mingw32-g++",
+            "args": [
+                "-g",
+                "-o",
+                "output/mingw_output.exe",
+                "source.cpp"
+            ],
+            "group": {
+                "kind": "build",
+                "isDefault": true
+            }
+        }
+    ]
+}

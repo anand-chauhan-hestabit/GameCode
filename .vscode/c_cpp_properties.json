@@ -1,0 +1,26 @@
+{
+    "configurations": [
+        {
+            "name": "g++",
+            "intelliSenseMode": "gcc-x64",
+            "compilerPath": "/usr/bin/g++",
+            "cStandard": "c17",
+            "cppStandard": "c++17"
+        },
+        {
+            "name": "clang",
+            "intelliSenseMode": "clang-x64",
+            "compilerPath": "/usr/bin/clang++",
+            "cStandard": "c17",
+            "cppStandard": "c++17"
+        },
+        {
+            "name": "MinGW",
+            "intelliSenseMode": "gcc-x64",
+            "compilerPath": "x86_64-w64-mingw32-g++",
+            "cStandard": "c17",
+            "cppStandard": "c++17"
+        }
+    ],
+    "version": 4
+}

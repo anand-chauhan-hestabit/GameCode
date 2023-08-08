@@ -1,0 +1,1917 @@
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: /usr/bin/gcc 
+Build flags: 
+Id flags:  
+
+The output was:
+1
+gcc: fatal error: cannot execute ‘cc1’: execvp: No such file or directory
+compilation terminated.
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: /usr/bin/gcc 
+Build flags: 
+Id flags: -c 
+
+The output was:
+1
+gcc: fatal error: cannot execute ‘cc1’: execvp: No such file or directory
+compilation terminated.
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: /usr/bin/gcc 
+Build flags: 
+Id flags: -Aa 
+
+The output was:
+1
+gcc: fatal error: cannot execute ‘cc1’: execvp: No such file or directory
+compilation terminated.
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: /usr/bin/gcc 
+Build flags: 
+Id flags: -D__CLASSIC_C__ 
+
+The output was:
+1
+gcc: fatal error: cannot execute ‘cc1’: execvp: No such file or directory
+compilation terminated.
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: /usr/bin/gcc 
+Build flags: 
+Id flags: --target=arm-arm-none-eabi;-mcpu=cortex-m3 
+
+The output was:
+1
+gcc: warning: ‘-mcpu=’ is deprecated; use ‘-mtune=’ or ‘-march=’ instead
+gcc: error: unrecognized command-line option ‘--target=arm-arm-none-eabi’
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: /usr/bin/gcc 
+Build flags: 
+Id flags: -c;-I__does_not_exist__ 
+
+The output was:
+1
+gcc: fatal error: cannot execute ‘cc1’: execvp: No such file or directory
+compilation terminated.
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: /usr/bin/gcc 
+Build flags: 
+Id flags:  
+
+The output was:
+1
+gcc: fatal error: cannot execute ‘cc1’: execvp: No such file or directory
+compilation terminated.
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: /usr/bin/gcc 
+Build flags: 
+Id flags: -c 
+
+The output was:
+1
+gcc: fatal error: cannot execute ‘cc1’: execvp: No such file or directory
+compilation terminated.
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: /usr/bin/gcc 
+Build flags: 
+Id flags: -Aa 
+
+The output was:
+1
+gcc: fatal error: cannot execute ‘cc1’: execvp: No such file or directory
+compilation terminated.
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: /usr/bin/gcc 
+Build flags: 
+Id flags: -D__CLASSIC_C__ 
+
+The output was:
+1
+gcc: fatal error: cannot execute ‘cc1’: execvp: No such file or directory
+compilation terminated.
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: /usr/bin/gcc 
+Build flags: 
+Id flags: --target=arm-arm-none-eabi;-mcpu=cortex-m3 
+
+The output was:
+1
+gcc: warning: ‘-mcpu=’ is deprecated; use ‘-mtune=’ or ‘-march=’ instead
+gcc: error: unrecognized command-line option ‘--target=arm-arm-none-eabi’
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: /usr/bin/gcc 
+Build flags: 
+Id flags: -c;-I__does_not_exist__ 
+
+The output was:
+1
+gcc: fatal error: cannot execute ‘cc1’: execvp: No such file or directory
+compilation terminated.
+
+
+Checking whether the C compiler is IAR using "" did not match "IAR .+ Compiler":
+gcc: fatal error: no input files
+compilation terminated.
+Checking whether the C compiler is IAR using "" did not match "IAR .+ Compiler":
+gcc: fatal error: no input files
+compilation terminated.
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: /usr/bin/g++ 
+Build flags: 
+Id flags:  
+
+The output was:
+1
+/usr/bin/ld: cannot find crtbeginS.o: No such file or directory
+/usr/bin/ld: cannot find -lstdc++: No such file or directory
+collect2: error: ld returned 1 exit status
+
+
+Detecting C compiler ABI info failed to compile with the following output:
+Change Dir: /home/anandchauhan/Desktop/C++ PROJECTS/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/gmake -f Makefile cmTC_64d60/fast && /usr/bin/gmake  -f CMakeFiles/cmTC_64d60.dir/build.make CMakeFiles/cmTC_64d60.dir/build
+gmake[1]: Entering directory '/home/anandchauhan/Desktop/C++ PROJECTS/build/CMakeFiles/CMakeTmp'
+/usr/bin/cmake: /lib/x86_64-linux-gnu/libcurl.so.4: no version information available (required by /usr/bin/cmake)
+Building C object CMakeFiles/cmTC_64d60.dir/CMakeCCompilerABI.c.o
+/usr/bin/gcc    -o CMakeFiles/cmTC_64d60.dir/CMakeCCompilerABI.c.o -c /usr/share/cmake-3.22/Modules/CMakeCCompilerABI.c
+gcc: fatal error: cannot execute 'cc1': execvp: No such file or directory
+compilation terminated.
+gmake[1]: *** [CMakeFiles/cmTC_64d60.dir/build.make:78: CMakeFiles/cmTC_64d60.dir/CMakeCCompilerABI.c.o] Error 1
+gmake[1]: Leaving directory '/home/anandchauhan/Desktop/C++ PROJECTS/build/CMakeFiles/CMakeTmp'
+gmake: *** [Makefile:127: cmTC_64d60/fast] Error 2
+
+
+
+
+Determining if the C compiler works failed with the following output:
+Change Dir: /home/anandchauhan/Desktop/C++ PROJECTS/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/gmake -f Makefile cmTC_ec078/fast && /usr/bin/gmake  -f CMakeFiles/cmTC_ec078.dir/build.make CMakeFiles/cmTC_ec078.dir/build
+gmake[1]: Entering directory '/home/anandchauhan/Desktop/C++ PROJECTS/build/CMakeFiles/CMakeTmp'
+/usr/bin/cmake: /lib/x86_64-linux-gnu/libcurl.so.4: no version information available (required by /usr/bin/cmake)
+Building C object CMakeFiles/cmTC_ec078.dir/testCCompiler.c.o
+/usr/bin/gcc    -o CMakeFiles/cmTC_ec078.dir/testCCompiler.c.o -c "/home/anandchauhan/Desktop/C++ PROJECTS/build/CMakeFiles/CMakeTmp/testCCompiler.c"
+gcc: fatal error: cannot execute ‘cc1’: execvp: No such file or directory
+compilation terminated.
+gmake[1]: *** [CMakeFiles/cmTC_ec078.dir/build.make:78: CMakeFiles/cmTC_ec078.dir/testCCompiler.c.o] Error 1
+gmake[1]: Leaving directory '/home/anandchauhan/Desktop/C++ PROJECTS/build/CMakeFiles/CMakeTmp'
+gmake: *** [Makefile:127: cmTC_ec078/fast] Error 2
+
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: /usr/bin/gcc 
+Build flags: 
+Id flags:  
+
+The output was:
+1
+gcc: fatal error: cannot execute ‘cc1’: execvp: No such file or directory
+compilation terminated.
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: /usr/bin/gcc 
+Build flags: 
+Id flags: -c 
+
+The output was:
+1
+gcc: fatal error: cannot execute ‘cc1’: execvp: No such file or directory
+compilation terminated.
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: /usr/bin/gcc 
+Build flags: 
+Id flags: -Aa 
+
+The output was:
+1
+gcc: fatal error: cannot execute ‘cc1’: execvp: No such file or directory
+compilation terminated.
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: /usr/bin/gcc 
+Build flags: 
+Id flags: -D__CLASSIC_C__ 
+
+The output was:
+1
+gcc: fatal error: cannot execute ‘cc1’: execvp: No such file or directory
+compilation terminated.
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: /usr/bin/gcc 
+Build flags: 
+Id flags: --target=arm-arm-none-eabi;-mcpu=cortex-m3 
+
+The output was:
+1
+gcc: warning: ‘-mcpu=’ is deprecated; use ‘-mtune=’ or ‘-march=’ instead
+gcc: error: unrecognized command-line option ‘--target=arm-arm-none-eabi’
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: /usr/bin/gcc 
+Build flags: 
+Id flags: -c;-I__does_not_exist__ 
+
+The output was:
+1
+gcc: fatal error: cannot execute ‘cc1’: execvp: No such file or directory
+compilation terminated.
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: /usr/bin/gcc 
+Build flags: 
+Id flags:  
+
+The output was:
+1
+gcc: fatal error: cannot execute ‘cc1’: execvp: No such file or directory
+compilation terminated.
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: /usr/bin/gcc 
+Build flags: 
+Id flags: -c 
+
+The output was:
+1
+gcc: fatal error: cannot execute ‘cc1’: execvp: No such file or directory
+compilation terminated.
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: /usr/bin/gcc 
+Build flags: 
+Id flags: -Aa 
+
+The output was:
+1
+gcc: fatal error: cannot execute ‘cc1’: execvp: No such file or directory
+compilation terminated.
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: /usr/bin/gcc 
+Build flags: 
+Id flags: -D__CLASSIC_C__ 
+
+The output was:
+1
+gcc: fatal error: cannot execute ‘cc1’: execvp: No such file or directory
+compilation terminated.
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: /usr/bin/gcc 
+Build flags: 
+Id flags: --target=arm-arm-none-eabi;-mcpu=cortex-m3 
+
+The output was:
+1
+gcc: warning: ‘-mcpu=’ is deprecated; use ‘-mtune=’ or ‘-march=’ instead
+gcc: error: unrecognized command-line option ‘--target=arm-arm-none-eabi’
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: /usr/bin/gcc 
+Build flags: 
+Id flags: -c;-I__does_not_exist__ 
+
+The output was:
+1
+gcc: fatal error: cannot execute ‘cc1’: execvp: No such file or directory
+compilation terminated.
+
+
+Checking whether the C compiler is IAR using "" did not match "IAR .+ Compiler":
+gcc: fatal error: no input files
+compilation terminated.
+Checking whether the C compiler is IAR using "" did not match "IAR .+ Compiler":
+gcc: fatal error: no input files
+compilation terminated.
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: /usr/bin/g++ 
+Build flags: 
+Id flags:  
+
+The output was:
+1
+/usr/bin/ld: cannot find crtbeginS.o: No such file or directory
+/usr/bin/ld: cannot find -lstdc++: No such file or directory
+collect2: error: ld returned 1 exit status
+
+
+Detecting C compiler ABI info failed to compile with the following output:
+Change Dir: /home/anandchauhan/Desktop/C++ PROJECTS/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/gmake -f Makefile cmTC_4439f/fast && /usr/bin/gmake  -f CMakeFiles/cmTC_4439f.dir/build.make CMakeFiles/cmTC_4439f.dir/build
+gmake[1]: Entering directory '/home/anandchauhan/Desktop/C++ PROJECTS/build/CMakeFiles/CMakeTmp'
+/usr/bin/cmake: /lib/x86_64-linux-gnu/libcurl.so.4: no version information available (required by /usr/bin/cmake)
+Building C object CMakeFiles/cmTC_4439f.dir/CMakeCCompilerABI.c.o
+/usr/bin/gcc    -o CMakeFiles/cmTC_4439f.dir/CMakeCCompilerABI.c.o -c /usr/share/cmake-3.22/Modules/CMakeCCompilerABI.c
+gcc: fatal error: cannot execute 'cc1': execvp: No such file or directory
+compilation terminated.
+gmake[1]: *** [CMakeFiles/cmTC_4439f.dir/build.make:78: CMakeFiles/cmTC_4439f.dir/CMakeCCompilerABI.c.o] Error 1
+gmake[1]: Leaving directory '/home/anandchauhan/Desktop/C++ PROJECTS/build/CMakeFiles/CMakeTmp'
+gmake: *** [Makefile:127: cmTC_4439f/fast] Error 2
+
+
+
+
+Determining if the C compiler works failed with the following output:
+Change Dir: /home/anandchauhan/Desktop/C++ PROJECTS/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/gmake -f Makefile cmTC_2d324/fast && /usr/bin/gmake  -f CMakeFiles/cmTC_2d324.dir/build.make CMakeFiles/cmTC_2d324.dir/build
+gmake[1]: Entering directory '/home/anandchauhan/Desktop/C++ PROJECTS/build/CMakeFiles/CMakeTmp'
+/usr/bin/cmake: /lib/x86_64-linux-gnu/libcurl.so.4: no version information available (required by /usr/bin/cmake)
+Building C object CMakeFiles/cmTC_2d324.dir/testCCompiler.c.o
+/usr/bin/gcc    -o CMakeFiles/cmTC_2d324.dir/testCCompiler.c.o -c "/home/anandchauhan/Desktop/C++ PROJECTS/build/CMakeFiles/CMakeTmp/testCCompiler.c"
+gcc: fatal error: cannot execute ‘cc1’: execvp: No such file or directory
+compilation terminated.
+gmake[1]: *** [CMakeFiles/cmTC_2d324.dir/build.make:78: CMakeFiles/cmTC_2d324.dir/testCCompiler.c.o] Error 1
+gmake[1]: Leaving directory '/home/anandchauhan/Desktop/C++ PROJECTS/build/CMakeFiles/CMakeTmp'
+gmake: *** [Makefile:127: cmTC_2d324/fast] Error 2
+
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: /usr/bin/gcc 
+Build flags: 
+Id flags:  
+
+The output was:
+1
+gcc: fatal error: cannot execute ‘cc1’: execvp: No such file or directory
+compilation terminated.
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: /usr/bin/gcc 
+Build flags: 
+Id flags: -c 
+
+The output was:
+1
+gcc: fatal error: cannot execute ‘cc1’: execvp: No such file or directory
+compilation terminated.
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: /usr/bin/gcc 
+Build flags: 
+Id flags: -Aa 
+
+The output was:
+1
+gcc: fatal error: cannot execute ‘cc1’: execvp: No such file or directory
+compilation terminated.
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: /usr/bin/gcc 
+Build flags: 
+Id flags: -D__CLASSIC_C__ 
+
+The output was:
+1
+gcc: fatal error: cannot execute ‘cc1’: execvp: No such file or directory
+compilation terminated.
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: /usr/bin/gcc 
+Build flags: 
+Id flags: --target=arm-arm-none-eabi;-mcpu=cortex-m3 
+
+The output was:
+1
+gcc: warning: ‘-mcpu=’ is deprecated; use ‘-mtune=’ or ‘-march=’ instead
+gcc: error: unrecognized command-line option ‘--target=arm-arm-none-eabi’
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: /usr/bin/gcc 
+Build flags: 
+Id flags: -c;-I__does_not_exist__ 
+
+The output was:
+1
+gcc: fatal error: cannot execute ‘cc1’: execvp: No such file or directory
+compilation terminated.
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: /usr/bin/gcc 
+Build flags: 
+Id flags:  
+
+The output was:
+1
+gcc: fatal error: cannot execute ‘cc1’: execvp: No such file or directory
+compilation terminated.
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: /usr/bin/gcc 
+Build flags: 
+Id flags: -c 
+
+The output was:
+1
+gcc: fatal error: cannot execute ‘cc1’: execvp: No such file or directory
+compilation terminated.
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: /usr/bin/gcc 
+Build flags: 
+Id flags: -Aa 
+
+The output was:
+1
+gcc: fatal error: cannot execute ‘cc1’: execvp: No such file or directory
+compilation terminated.
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: /usr/bin/gcc 
+Build flags: 
+Id flags: -D__CLASSIC_C__ 
+
+The output was:
+1
+gcc: fatal error: cannot execute ‘cc1’: execvp: No such file or directory
+compilation terminated.
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: /usr/bin/gcc 
+Build flags: 
+Id flags: --target=arm-arm-none-eabi;-mcpu=cortex-m3 
+
+The output was:
+1
+gcc: warning: ‘-mcpu=’ is deprecated; use ‘-mtune=’ or ‘-march=’ instead
+gcc: error: unrecognized command-line option ‘--target=arm-arm-none-eabi’
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: /usr/bin/gcc 
+Build flags: 
+Id flags: -c;-I__does_not_exist__ 
+
+The output was:
+1
+gcc: fatal error: cannot execute ‘cc1’: execvp: No such file or directory
+compilation terminated.
+
+
+Checking whether the C compiler is IAR using "" did not match "IAR .+ Compiler":
+gcc: fatal error: no input files
+compilation terminated.
+Checking whether the C compiler is IAR using "" did not match "IAR .+ Compiler":
+gcc: fatal error: no input files
+compilation terminated.
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: /usr/bin/g++ 
+Build flags: 
+Id flags:  
+
+The output was:
+1
+/usr/bin/ld: cannot find crtbeginS.o: No such file or directory
+/usr/bin/ld: cannot find -lstdc++: No such file or directory
+collect2: error: ld returned 1 exit status
+
+
+Detecting C compiler ABI info failed to compile with the following output:
+Change Dir: /home/anandchauhan/Desktop/C++ PROJECTS/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/gmake -f Makefile cmTC_962f5/fast && /usr/bin/gmake  -f CMakeFiles/cmTC_962f5.dir/build.make CMakeFiles/cmTC_962f5.dir/build
+gmake[1]: Entering directory '/home/anandchauhan/Desktop/C++ PROJECTS/build/CMakeFiles/CMakeTmp'
+/usr/bin/cmake: /lib/x86_64-linux-gnu/libcurl.so.4: no version information available (required by /usr/bin/cmake)
+Building C object CMakeFiles/cmTC_962f5.dir/CMakeCCompilerABI.c.o
+/usr/bin/gcc    -o CMakeFiles/cmTC_962f5.dir/CMakeCCompilerABI.c.o -c /usr/share/cmake-3.22/Modules/CMakeCCompilerABI.c
+gcc: fatal error: cannot execute 'cc1': execvp: No such file or directory
+compilation terminated.
+gmake[1]: *** [CMakeFiles/cmTC_962f5.dir/build.make:78: CMakeFiles/cmTC_962f5.dir/CMakeCCompilerABI.c.o] Error 1
+gmake[1]: Leaving directory '/home/anandchauhan/Desktop/C++ PROJECTS/build/CMakeFiles/CMakeTmp'
+gmake: *** [Makefile:127: cmTC_962f5/fast] Error 2
+
+
+
+
+Determining if the C compiler works failed with the following output:
+Change Dir: /home/anandchauhan/Desktop/C++ PROJECTS/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/gmake -f Makefile cmTC_316e4/fast && /usr/bin/gmake  -f CMakeFiles/cmTC_316e4.dir/build.make CMakeFiles/cmTC_316e4.dir/build
+gmake[1]: Entering directory '/home/anandchauhan/Desktop/C++ PROJECTS/build/CMakeFiles/CMakeTmp'
+/usr/bin/cmake: /lib/x86_64-linux-gnu/libcurl.so.4: no version information available (required by /usr/bin/cmake)
+Building C object CMakeFiles/cmTC_316e4.dir/testCCompiler.c.o
+/usr/bin/gcc    -o CMakeFiles/cmTC_316e4.dir/testCCompiler.c.o -c "/home/anandchauhan/Desktop/C++ PROJECTS/build/CMakeFiles/CMakeTmp/testCCompiler.c"
+gcc: fatal error: cannot execute ‘cc1’: execvp: No such file or directory
+compilation terminated.
+gmake[1]: *** [CMakeFiles/cmTC_316e4.dir/build.make:78: CMakeFiles/cmTC_316e4.dir/testCCompiler.c.o] Error 1
+gmake[1]: Leaving directory '/home/anandchauhan/Desktop/C++ PROJECTS/build/CMakeFiles/CMakeTmp'
+gmake: *** [Makefile:127: cmTC_316e4/fast] Error 2
+
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: /usr/bin/gcc 
+Build flags: 
+Id flags:  
+
+The output was:
+1
+gcc: fatal error: cannot execute ‘cc1’: execvp: No such file or directory
+compilation terminated.
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: /usr/bin/gcc 
+Build flags: 
+Id flags: -c 
+
+The output was:
+1
+gcc: fatal error: cannot execute ‘cc1’: execvp: No such file or directory
+compilation terminated.
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: /usr/bin/gcc 
+Build flags: 
+Id flags: -Aa 
+
+The output was:
+1
+gcc: fatal error: cannot execute ‘cc1’: execvp: No such file or directory
+compilation terminated.
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: /usr/bin/gcc 
+Build flags: 
+Id flags: -D__CLASSIC_C__ 
+
+The output was:
+1
+gcc: fatal error: cannot execute ‘cc1’: execvp: No such file or directory
+compilation terminated.
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: /usr/bin/gcc 
+Build flags: 
+Id flags: --target=arm-arm-none-eabi;-mcpu=cortex-m3 
+
+The output was:
+1
+gcc: warning: ‘-mcpu=’ is deprecated; use ‘-mtune=’ or ‘-march=’ instead
+gcc: error: unrecognized command-line option ‘--target=arm-arm-none-eabi’
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: /usr/bin/gcc 
+Build flags: 
+Id flags: -c;-I__does_not_exist__ 
+
+The output was:
+1
+gcc: fatal error: cannot execute ‘cc1’: execvp: No such file or directory
+compilation terminated.
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: /usr/bin/gcc 
+Build flags: 
+Id flags:  
+
+The output was:
+1
+gcc: fatal error: cannot execute ‘cc1’: execvp: No such file or directory
+compilation terminated.
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: /usr/bin/gcc 
+Build flags: 
+Id flags: -c 
+
+The output was:
+1
+gcc: fatal error: cannot execute ‘cc1’: execvp: No such file or directory
+compilation terminated.
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: /usr/bin/gcc 
+Build flags: 
+Id flags: -Aa 
+
+The output was:
+1
+gcc: fatal error: cannot execute ‘cc1’: execvp: No such file or directory
+compilation terminated.
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: /usr/bin/gcc 
+Build flags: 
+Id flags: -D__CLASSIC_C__ 
+
+The output was:
+1
+gcc: fatal error: cannot execute ‘cc1’: execvp: No such file or directory
+compilation terminated.
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: /usr/bin/gcc 
+Build flags: 
+Id flags: --target=arm-arm-none-eabi;-mcpu=cortex-m3 
+
+The output was:
+1
+gcc: warning: ‘-mcpu=’ is deprecated; use ‘-mtune=’ or ‘-march=’ instead
+gcc: error: unrecognized command-line option ‘--target=arm-arm-none-eabi’
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: /usr/bin/gcc 
+Build flags: 
+Id flags: -c;-I__does_not_exist__ 
+
+The output was:
+1
+gcc: fatal error: cannot execute ‘cc1’: execvp: No such file or directory
+compilation terminated.
+
+
+Checking whether the C compiler is IAR using "" did not match "IAR .+ Compiler":
+gcc: fatal error: no input files
+compilation terminated.
+Checking whether the C compiler is IAR using "" did not match "IAR .+ Compiler":
+gcc: fatal error: no input files
+compilation terminated.
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: /usr/bin/g++ 
+Build flags: 
+Id flags:  
+
+The output was:
+1
+/usr/bin/ld: cannot find crtbeginS.o: No such file or directory
+/usr/bin/ld: cannot find -lstdc++: No such file or directory
+collect2: error: ld returned 1 exit status
+
+
+Detecting C compiler ABI info failed to compile with the following output:
+Change Dir: /home/anandchauhan/Desktop/C++ PROJECTS/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/gmake -f Makefile cmTC_825d6/fast && /usr/bin/gmake  -f CMakeFiles/cmTC_825d6.dir/build.make CMakeFiles/cmTC_825d6.dir/build
+gmake[1]: Entering directory '/home/anandchauhan/Desktop/C++ PROJECTS/build/CMakeFiles/CMakeTmp'
+/usr/bin/cmake: /lib/x86_64-linux-gnu/libcurl.so.4: no version information available (required by /usr/bin/cmake)
+Building C object CMakeFiles/cmTC_825d6.dir/CMakeCCompilerABI.c.o
+/usr/bin/gcc    -o CMakeFiles/cmTC_825d6.dir/CMakeCCompilerABI.c.o -c /usr/share/cmake-3.22/Modules/CMakeCCompilerABI.c
+gcc: fatal error: cannot execute 'cc1': execvp: No such file or directory
+compilation terminated.
+gmake[1]: *** [CMakeFiles/cmTC_825d6.dir/build.make:78: CMakeFiles/cmTC_825d6.dir/CMakeCCompilerABI.c.o] Error 1
+gmake[1]: Leaving directory '/home/anandchauhan/Desktop/C++ PROJECTS/build/CMakeFiles/CMakeTmp'
+gmake: *** [Makefile:127: cmTC_825d6/fast] Error 2
+
+
+
+
+Determining if the C compiler works failed with the following output:
+Change Dir: /home/anandchauhan/Desktop/C++ PROJECTS/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/gmake -f Makefile cmTC_448bb/fast && /usr/bin/gmake  -f CMakeFiles/cmTC_448bb.dir/build.make CMakeFiles/cmTC_448bb.dir/build
+gmake[1]: Entering directory '/home/anandchauhan/Desktop/C++ PROJECTS/build/CMakeFiles/CMakeTmp'
+/usr/bin/cmake: /lib/x86_64-linux-gnu/libcurl.so.4: no version information available (required by /usr/bin/cmake)
+Building C object CMakeFiles/cmTC_448bb.dir/testCCompiler.c.o
+/usr/bin/gcc    -o CMakeFiles/cmTC_448bb.dir/testCCompiler.c.o -c "/home/anandchauhan/Desktop/C++ PROJECTS/build/CMakeFiles/CMakeTmp/testCCompiler.c"
+gcc: fatal error: cannot execute ‘cc1’: execvp: No such file or directory
+compilation terminated.
+gmake[1]: *** [CMakeFiles/cmTC_448bb.dir/build.make:78: CMakeFiles/cmTC_448bb.dir/testCCompiler.c.o] Error 1
+gmake[1]: Leaving directory '/home/anandchauhan/Desktop/C++ PROJECTS/build/CMakeFiles/CMakeTmp'
+gmake: *** [Makefile:127: cmTC_448bb/fast] Error 2
+
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: /usr/bin/gcc 
+Build flags: 
+Id flags:  
+
+The output was:
+1
+gcc: fatal error: cannot execute ‘cc1’: execvp: No such file or directory
+compilation terminated.
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: /usr/bin/gcc 
+Build flags: 
+Id flags: -c 
+
+The output was:
+1
+gcc: fatal error: cannot execute ‘cc1’: execvp: No such file or directory
+compilation terminated.
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: /usr/bin/gcc 
+Build flags: 
+Id flags: -Aa 
+
+The output was:
+1
+gcc: fatal error: cannot execute ‘cc1’: execvp: No such file or directory
+compilation terminated.
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: /usr/bin/gcc 
+Build flags: 
+Id flags: -D__CLASSIC_C__ 
+
+The output was:
+1
+gcc: fatal error: cannot execute ‘cc1’: execvp: No such file or directory
+compilation terminated.
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: /usr/bin/gcc 
+Build flags: 
+Id flags: --target=arm-arm-none-eabi;-mcpu=cortex-m3 
+
+The output was:
+1
+gcc: warning: ‘-mcpu=’ is deprecated; use ‘-mtune=’ or ‘-march=’ instead
+gcc: error: unrecognized command-line option ‘--target=arm-arm-none-eabi’
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: /usr/bin/gcc 
+Build flags: 
+Id flags: -c;-I__does_not_exist__ 
+
+The output was:
+1
+gcc: fatal error: cannot execute ‘cc1’: execvp: No such file or directory
+compilation terminated.
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: /usr/bin/gcc 
+Build flags: 
+Id flags:  
+
+The output was:
+1
+gcc: fatal error: cannot execute ‘cc1’: execvp: No such file or directory
+compilation terminated.
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: /usr/bin/gcc 
+Build flags: 
+Id flags: -c 
+
+The output was:
+1
+gcc: fatal error: cannot execute ‘cc1’: execvp: No such file or directory
+compilation terminated.
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: /usr/bin/gcc 
+Build flags: 
+Id flags: -Aa 
+
+The output was:
+1
+gcc: fatal error: cannot execute ‘cc1’: execvp: No such file or directory
+compilation terminated.
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: /usr/bin/gcc 
+Build flags: 
+Id flags: -D__CLASSIC_C__ 
+
+The output was:
+1
+gcc: fatal error: cannot execute ‘cc1’: execvp: No such file or directory
+compilation terminated.
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: /usr/bin/gcc 
+Build flags: 
+Id flags: --target=arm-arm-none-eabi;-mcpu=cortex-m3 
+
+The output was:
+1
+gcc: warning: ‘-mcpu=’ is deprecated; use ‘-mtune=’ or ‘-march=’ instead
+gcc: error: unrecognized command-line option ‘--target=arm-arm-none-eabi’
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: /usr/bin/gcc 
+Build flags: 
+Id flags: -c;-I__does_not_exist__ 
+
+The output was:
+1
+gcc: fatal error: cannot execute ‘cc1’: execvp: No such file or directory
+compilation terminated.
+
+
+Checking whether the C compiler is IAR using "" did not match "IAR .+ Compiler":
+gcc: fatal error: no input files
+compilation terminated.
+Checking whether the C compiler is IAR using "" did not match "IAR .+ Compiler":
+gcc: fatal error: no input files
+compilation terminated.
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: /usr/bin/g++ 
+Build flags: 
+Id flags:  
+
+The output was:
+1
+/usr/bin/ld: cannot find crtbeginS.o: No such file or directory
+/usr/bin/ld: cannot find -lstdc++: No such file or directory
+collect2: error: ld returned 1 exit status
+
+
+Detecting C compiler ABI info failed to compile with the following output:
+Change Dir: /home/anandchauhan/Desktop/C++ PROJECTS/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/gmake -f Makefile cmTC_0669f/fast && /usr/bin/gmake  -f CMakeFiles/cmTC_0669f.dir/build.make CMakeFiles/cmTC_0669f.dir/build
+gmake[1]: Entering directory '/home/anandchauhan/Desktop/C++ PROJECTS/build/CMakeFiles/CMakeTmp'
+/usr/bin/cmake: /lib/x86_64-linux-gnu/libcurl.so.4: no version information available (required by /usr/bin/cmake)
+Building C object CMakeFiles/cmTC_0669f.dir/CMakeCCompilerABI.c.o
+/usr/bin/gcc    -o CMakeFiles/cmTC_0669f.dir/CMakeCCompilerABI.c.o -c /usr/share/cmake-3.22/Modules/CMakeCCompilerABI.c
+gcc: fatal error: cannot execute 'cc1': execvp: No such file or directory
+compilation terminated.
+gmake[1]: *** [CMakeFiles/cmTC_0669f.dir/build.make:78: CMakeFiles/cmTC_0669f.dir/CMakeCCompilerABI.c.o] Error 1
+gmake[1]: Leaving directory '/home/anandchauhan/Desktop/C++ PROJECTS/build/CMakeFiles/CMakeTmp'
+gmake: *** [Makefile:127: cmTC_0669f/fast] Error 2
+
+
+
+
+Determining if the C compiler works failed with the following output:
+Change Dir: /home/anandchauhan/Desktop/C++ PROJECTS/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/gmake -f Makefile cmTC_3ec80/fast && /usr/bin/gmake  -f CMakeFiles/cmTC_3ec80.dir/build.make CMakeFiles/cmTC_3ec80.dir/build
+gmake[1]: Entering directory '/home/anandchauhan/Desktop/C++ PROJECTS/build/CMakeFiles/CMakeTmp'
+/usr/bin/cmake: /lib/x86_64-linux-gnu/libcurl.so.4: no version information available (required by /usr/bin/cmake)
+Building C object CMakeFiles/cmTC_3ec80.dir/testCCompiler.c.o
+/usr/bin/gcc    -o CMakeFiles/cmTC_3ec80.dir/testCCompiler.c.o -c "/home/anandchauhan/Desktop/C++ PROJECTS/build/CMakeFiles/CMakeTmp/testCCompiler.c"
+gcc: fatal error: cannot execute ‘cc1’: execvp: No such file or directory
+compilation terminated.
+gmake[1]: *** [CMakeFiles/cmTC_3ec80.dir/build.make:78: CMakeFiles/cmTC_3ec80.dir/testCCompiler.c.o] Error 1
+gmake[1]: Leaving directory '/home/anandchauhan/Desktop/C++ PROJECTS/build/CMakeFiles/CMakeTmp'
+gmake: *** [Makefile:127: cmTC_3ec80/fast] Error 2
+
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: /usr/bin/gcc 
+Build flags: 
+Id flags:  
+
+The output was:
+No such file or directory
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: /usr/bin/gcc 
+Build flags: 
+Id flags: -c 
+
+The output was:
+No such file or directory
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: /usr/bin/gcc 
+Build flags: 
+Id flags: -Aa 
+
+The output was:
+No such file or directory
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: /usr/bin/gcc 
+Build flags: 
+Id flags: -D__CLASSIC_C__ 
+
+The output was:
+No such file or directory
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: /usr/bin/gcc 
+Build flags: 
+Id flags: --target=arm-arm-none-eabi;-mcpu=cortex-m3 
+
+The output was:
+No such file or directory
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: /usr/bin/gcc 
+Build flags: 
+Id flags: -c;-I__does_not_exist__ 
+
+The output was:
+No such file or directory
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: /usr/bin/gcc 
+Build flags: 
+Id flags:  
+
+The output was:
+No such file or directory
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: /usr/bin/gcc 
+Build flags: 
+Id flags: -c 
+
+The output was:
+No such file or directory
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: /usr/bin/gcc 
+Build flags: 
+Id flags: -Aa 
+
+The output was:
+No such file or directory
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: /usr/bin/gcc 
+Build flags: 
+Id flags: -D__CLASSIC_C__ 
+
+The output was:
+No such file or directory
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: /usr/bin/gcc 
+Build flags: 
+Id flags: --target=arm-arm-none-eabi;-mcpu=cortex-m3 
+
+The output was:
+No such file or directory
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: /usr/bin/gcc 
+Build flags: 
+Id flags: -c;-I__does_not_exist__ 
+
+The output was:
+No such file or directory
+
+
+Checking whether the C compiler is IAR using "" did not match "IAR .+ Compiler":
+Checking whether the C compiler is IAR using "" did not match "IAR .+ Compiler":
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: /usr/bin/g++ 
+Build flags: 
+Id flags:  
+
+The output was:
+No such file or directory
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: /usr/bin/g++ 
+Build flags: 
+Id flags: -c 
+
+The output was:
+No such file or directory
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: /usr/bin/g++ 
+Build flags: 
+Id flags: --c++ 
+
+The output was:
+No such file or directory
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: /usr/bin/g++ 
+Build flags: 
+Id flags: --ec++ 
+
+The output was:
+No such file or directory
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: /usr/bin/g++ 
+Build flags: 
+Id flags: --target=arm-arm-none-eabi;-mcpu=cortex-m3 
+
+The output was:
+No such file or directory
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: /usr/bin/g++ 
+Build flags: 
+Id flags: -c;-I__does_not_exist__ 
+
+The output was:
+No such file or directory
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: /usr/bin/g++ 
+Build flags: 
+Id flags:  
+
+The output was:
+No such file or directory
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: /usr/bin/g++ 
+Build flags: 
+Id flags: -c 
+
+The output was:
+No such file or directory
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: /usr/bin/g++ 
+Build flags: 
+Id flags: --c++ 
+
+The output was:
+No such file or directory
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: /usr/bin/g++ 
+Build flags: 
+Id flags: --ec++ 
+
+The output was:
+No such file or directory
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: /usr/bin/g++ 
+Build flags: 
+Id flags: --target=arm-arm-none-eabi;-mcpu=cortex-m3 
+
+The output was:
+No such file or directory
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: /usr/bin/g++ 
+Build flags: 
+Id flags: -c;-I__does_not_exist__ 
+
+The output was:
+No such file or directory
+
+
+Checking whether the CXX compiler is IAR using "" did not match "IAR .+ Compiler":
+Checking whether the CXX compiler is IAR using "" did not match "IAR .+ Compiler":
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: /usr/bin/gcc 
+Build flags: 
+Id flags:  
+
+The output was:
+No such file or directory
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: /usr/bin/gcc 
+Build flags: 
+Id flags: -c 
+
+The output was:
+No such file or directory
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: /usr/bin/gcc 
+Build flags: 
+Id flags: -Aa 
+
+The output was:
+No such file or directory
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: /usr/bin/gcc 
+Build flags: 
+Id flags: -D__CLASSIC_C__ 
+
+The output was:
+No such file or directory
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: /usr/bin/gcc 
+Build flags: 
+Id flags: --target=arm-arm-none-eabi;-mcpu=cortex-m3 
+
+The output was:
+No such file or directory
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: /usr/bin/gcc 
+Build flags: 
+Id flags: -c;-I__does_not_exist__ 
+
+The output was:
+No such file or directory
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: /usr/bin/gcc 
+Build flags: 
+Id flags:  
+
+The output was:
+No such file or directory
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: /usr/bin/gcc 
+Build flags: 
+Id flags: -c 
+
+The output was:
+No such file or directory
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: /usr/bin/gcc 
+Build flags: 
+Id flags: -Aa 
+
+The output was:
+No such file or directory
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: /usr/bin/gcc 
+Build flags: 
+Id flags: -D__CLASSIC_C__ 
+
+The output was:
+No such file or directory
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: /usr/bin/gcc 
+Build flags: 
+Id flags: --target=arm-arm-none-eabi;-mcpu=cortex-m3 
+
+The output was:
+No such file or directory
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: /usr/bin/gcc 
+Build flags: 
+Id flags: -c;-I__does_not_exist__ 
+
+The output was:
+No such file or directory
+
+
+Checking whether the C compiler is IAR using "" did not match "IAR .+ Compiler":
+Checking whether the C compiler is IAR using "" did not match "IAR .+ Compiler":
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: /usr/bin/g++ 
+Build flags: 
+Id flags:  
+
+The output was:
+No such file or directory
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: /usr/bin/g++ 
+Build flags: 
+Id flags: -c 
+
+The output was:
+No such file or directory
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: /usr/bin/g++ 
+Build flags: 
+Id flags: --c++ 
+
+The output was:
+No such file or directory
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: /usr/bin/g++ 
+Build flags: 
+Id flags: --ec++ 
+
+The output was:
+No such file or directory
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: /usr/bin/g++ 
+Build flags: 
+Id flags: --target=arm-arm-none-eabi;-mcpu=cortex-m3 
+
+The output was:
+No such file or directory
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: /usr/bin/g++ 
+Build flags: 
+Id flags: -c;-I__does_not_exist__ 
+
+The output was:
+No such file or directory
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: /usr/bin/g++ 
+Build flags: 
+Id flags:  
+
+The output was:
+No such file or directory
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: /usr/bin/g++ 
+Build flags: 
+Id flags: -c 
+
+The output was:
+No such file or directory
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: /usr/bin/g++ 
+Build flags: 
+Id flags: --c++ 
+
+The output was:
+No such file or directory
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: /usr/bin/g++ 
+Build flags: 
+Id flags: --ec++ 
+
+The output was:
+No such file or directory
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: /usr/bin/g++ 
+Build flags: 
+Id flags: --target=arm-arm-none-eabi;-mcpu=cortex-m3 
+
+The output was:
+No such file or directory
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: /usr/bin/g++ 
+Build flags: 
+Id flags: -c;-I__does_not_exist__ 
+
+The output was:
+No such file or directory
+
+
+Checking whether the CXX compiler is IAR using "" did not match "IAR .+ Compiler":
+Checking whether the CXX compiler is IAR using "" did not match "IAR .+ Compiler":
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: /usr/bin/gcc 
+Build flags: 
+Id flags:  
+
+The output was:
+No such file or directory
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: /usr/bin/gcc 
+Build flags: 
+Id flags: -c 
+
+The output was:
+No such file or directory
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: /usr/bin/gcc 
+Build flags: 
+Id flags: -Aa 
+
+The output was:
+No such file or directory
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: /usr/bin/gcc 
+Build flags: 
+Id flags: -D__CLASSIC_C__ 
+
+The output was:
+No such file or directory
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: /usr/bin/gcc 
+Build flags: 
+Id flags: --target=arm-arm-none-eabi;-mcpu=cortex-m3 
+
+The output was:
+No such file or directory
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: /usr/bin/gcc 
+Build flags: 
+Id flags: -c;-I__does_not_exist__ 
+
+The output was:
+No such file or directory
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: /usr/bin/gcc 
+Build flags: 
+Id flags:  
+
+The output was:
+No such file or directory
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: /usr/bin/gcc 
+Build flags: 
+Id flags: -c 
+
+The output was:
+No such file or directory
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: /usr/bin/gcc 
+Build flags: 
+Id flags: -Aa 
+
+The output was:
+No such file or directory
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: /usr/bin/gcc 
+Build flags: 
+Id flags: -D__CLASSIC_C__ 
+
+The output was:
+No such file or directory
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: /usr/bin/gcc 
+Build flags: 
+Id flags: --target=arm-arm-none-eabi;-mcpu=cortex-m3 
+
+The output was:
+No such file or directory
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: /usr/bin/gcc 
+Build flags: 
+Id flags: -c;-I__does_not_exist__ 
+
+The output was:
+No such file or directory
+
+
+Checking whether the C compiler is IAR using "" did not match "IAR .+ Compiler":
+Checking whether the C compiler is IAR using "" did not match "IAR .+ Compiler":
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: /usr/bin/g++ 
+Build flags: 
+Id flags:  
+
+The output was:
+No such file or directory
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: /usr/bin/g++ 
+Build flags: 
+Id flags: -c 
+
+The output was:
+No such file or directory
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: /usr/bin/g++ 
+Build flags: 
+Id flags: --c++ 
+
+The output was:
+No such file or directory
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: /usr/bin/g++ 
+Build flags: 
+Id flags: --ec++ 
+
+The output was:
+No such file or directory
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: /usr/bin/g++ 
+Build flags: 
+Id flags: --target=arm-arm-none-eabi;-mcpu=cortex-m3 
+
+The output was:
+No such file or directory
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: /usr/bin/g++ 
+Build flags: 
+Id flags: -c;-I__does_not_exist__ 
+
+The output was:
+No such file or directory
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: /usr/bin/g++ 
+Build flags: 
+Id flags:  
+
+The output was:
+No such file or directory
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: /usr/bin/g++ 
+Build flags: 
+Id flags: -c 
+
+The output was:
+No such file or directory
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: /usr/bin/g++ 
+Build flags: 
+Id flags: --c++ 
+
+The output was:
+No such file or directory
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: /usr/bin/g++ 
+Build flags: 
+Id flags: --ec++ 
+
+The output was:
+No such file or directory
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: /usr/bin/g++ 
+Build flags: 
+Id flags: --target=arm-arm-none-eabi;-mcpu=cortex-m3 
+
+The output was:
+No such file or directory
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: /usr/bin/g++ 
+Build flags: 
+Id flags: -c;-I__does_not_exist__ 
+
+The output was:
+No such file or directory
+
+
+Checking whether the CXX compiler is IAR using "" did not match "IAR .+ Compiler":
+Checking whether the CXX compiler is IAR using "" did not match "IAR .+ Compiler":
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: /usr/bin/gcc-11 
+Build flags: 
+Id flags:  
+
+The output was:
+1
+gcc-11: fatal error: cannot execute ‘cc1’: execvp: No such file or directory
+compilation terminated.
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: /usr/bin/gcc-11 
+Build flags: 
+Id flags: -c 
+
+The output was:
+1
+gcc-11: fatal error: cannot execute ‘cc1’: execvp: No such file or directory
+compilation terminated.
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: /usr/bin/gcc-11 
+Build flags: 
+Id flags: -Aa 
+
+The output was:
+1
+gcc-11: fatal error: cannot execute ‘cc1’: execvp: No such file or directory
+compilation terminated.
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: /usr/bin/gcc-11 
+Build flags: 
+Id flags: -D__CLASSIC_C__ 
+
+The output was:
+1
+gcc-11: fatal error: cannot execute ‘cc1’: execvp: No such file or directory
+compilation terminated.
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: /usr/bin/gcc-11 
+Build flags: 
+Id flags: --target=arm-arm-none-eabi;-mcpu=cortex-m3 
+
+The output was:
+1
+gcc-11: warning: ‘-mcpu=’ is deprecated; use ‘-mtune=’ or ‘-march=’ instead
+gcc-11: error: unrecognized command-line option ‘--target=arm-arm-none-eabi’
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: /usr/bin/gcc-11 
+Build flags: 
+Id flags: -c;-I__does_not_exist__ 
+
+The output was:
+1
+gcc-11: fatal error: cannot execute ‘cc1’: execvp: No such file or directory
+compilation terminated.
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: /usr/bin/gcc-11 
+Build flags: 
+Id flags:  
+
+The output was:
+1
+gcc-11: fatal error: cannot execute ‘cc1’: execvp: No such file or directory
+compilation terminated.
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: /usr/bin/gcc-11 
+Build flags: 
+Id flags: -c 
+
+The output was:
+1
+gcc-11: fatal error: cannot execute ‘cc1’: execvp: No such file or directory
+compilation terminated.
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: /usr/bin/gcc-11 
+Build flags: 
+Id flags: -Aa 
+
+The output was:
+1
+gcc-11: fatal error: cannot execute ‘cc1’: execvp: No such file or directory
+compilation terminated.
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: /usr/bin/gcc-11 
+Build flags: 
+Id flags: -D__CLASSIC_C__ 
+
+The output was:
+1
+gcc-11: fatal error: cannot execute ‘cc1’: execvp: No such file or directory
+compilation terminated.
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: /usr/bin/gcc-11 
+Build flags: 
+Id flags: --target=arm-arm-none-eabi;-mcpu=cortex-m3 
+
+The output was:
+1
+gcc-11: warning: ‘-mcpu=’ is deprecated; use ‘-mtune=’ or ‘-march=’ instead
+gcc-11: error: unrecognized command-line option ‘--target=arm-arm-none-eabi’
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: /usr/bin/gcc-11 
+Build flags: 
+Id flags: -c;-I__does_not_exist__ 
+
+The output was:
+1
+gcc-11: fatal error: cannot execute ‘cc1’: execvp: No such file or directory
+compilation terminated.
+
+
+Checking whether the C compiler is IAR using "" did not match "IAR .+ Compiler":
+gcc-11: fatal error: no input files
+compilation terminated.
+Checking whether the C compiler is IAR using "" did not match "IAR .+ Compiler":
+gcc-11: fatal error: no input files
+compilation terminated.
+Detecting C compiler ABI info failed to compile with the following output:
+Change Dir: /home/anandchauhan/Desktop/C++ PROJECTS/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/gmake -f Makefile cmTC_01fd3/fast && /usr/bin/gmake  -f CMakeFiles/cmTC_01fd3.dir/build.make CMakeFiles/cmTC_01fd3.dir/build
+gmake[1]: Entering directory '/home/anandchauhan/Desktop/C++ PROJECTS/build/CMakeFiles/CMakeTmp'
+/usr/bin/cmake: /lib/x86_64-linux-gnu/libcurl.so.4: no version information available (required by /usr/bin/cmake)
+Building C object CMakeFiles/cmTC_01fd3.dir/CMakeCCompilerABI.c.o
+/usr/bin/gcc-11    -o CMakeFiles/cmTC_01fd3.dir/CMakeCCompilerABI.c.o -c /usr/share/cmake-3.22/Modules/CMakeCCompilerABI.c
+gcc-11: fatal error: cannot execute 'cc1': execvp: No such file or directory
+compilation terminated.
+gmake[1]: *** [CMakeFiles/cmTC_01fd3.dir/build.make:78: CMakeFiles/cmTC_01fd3.dir/CMakeCCompilerABI.c.o] Error 1
+gmake[1]: Leaving directory '/home/anandchauhan/Desktop/C++ PROJECTS/build/CMakeFiles/CMakeTmp'
+gmake: *** [Makefile:127: cmTC_01fd3/fast] Error 2
+
+
+
+
+Determining if the C compiler works failed with the following output:
+Change Dir: /home/anandchauhan/Desktop/C++ PROJECTS/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/gmake -f Makefile cmTC_f3378/fast && /usr/bin/gmake  -f CMakeFiles/cmTC_f3378.dir/build.make CMakeFiles/cmTC_f3378.dir/build
+gmake[1]: Entering directory '/home/anandchauhan/Desktop/C++ PROJECTS/build/CMakeFiles/CMakeTmp'
+/usr/bin/cmake: /lib/x86_64-linux-gnu/libcurl.so.4: no version information available (required by /usr/bin/cmake)
+Building C object CMakeFiles/cmTC_f3378.dir/testCCompiler.c.o
+/usr/bin/gcc-11    -o CMakeFiles/cmTC_f3378.dir/testCCompiler.c.o -c "/home/anandchauhan/Desktop/C++ PROJECTS/build/CMakeFiles/CMakeTmp/testCCompiler.c"
+gcc-11: fatal error: cannot execute ‘cc1’: execvp: No such file or directory
+compilation terminated.
+gmake[1]: *** [CMakeFiles/cmTC_f3378.dir/build.make:78: CMakeFiles/cmTC_f3378.dir/testCCompiler.c.o] Error 1
+gmake[1]: Leaving directory '/home/anandchauhan/Desktop/C++ PROJECTS/build/CMakeFiles/CMakeTmp'
+gmake: *** [Makefile:127: cmTC_f3378/fast] Error 2
+
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: /usr/bin/gcc-11 
+Build flags: 
+Id flags:  
+
+The output was:
+1
+gcc-11: fatal error: cannot execute ‘cc1’: execvp: No such file or directory
+compilation terminated.
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: /usr/bin/gcc-11 
+Build flags: 
+Id flags: -c 
+
+The output was:
+1
+gcc-11: fatal error: cannot execute ‘cc1’: execvp: No such file or directory
+compilation terminated.
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: /usr/bin/gcc-11 
+Build flags: 
+Id flags: -Aa 
+
+The output was:
+1
+gcc-11: fatal error: cannot execute ‘cc1’: execvp: No such file or directory
+compilation terminated.
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: /usr/bin/gcc-11 
+Build flags: 
+Id flags: -D__CLASSIC_C__ 
+
+The output was:
+1
+gcc-11: fatal error: cannot execute ‘cc1’: execvp: No such file or directory
+compilation terminated.
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: /usr/bin/gcc-11 
+Build flags: 
+Id flags: --target=arm-arm-none-eabi;-mcpu=cortex-m3 
+
+The output was:
+1
+gcc-11: warning: ‘-mcpu=’ is deprecated; use ‘-mtune=’ or ‘-march=’ instead
+gcc-11: error: unrecognized command-line option ‘--target=arm-arm-none-eabi’
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: /usr/bin/gcc-11 
+Build flags: 
+Id flags: -c;-I__does_not_exist__ 
+
+The output was:
+1
+gcc-11: fatal error: cannot execute ‘cc1’: execvp: No such file or directory
+compilation terminated.
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: /usr/bin/gcc-11 
+Build flags: 
+Id flags:  
+
+The output was:
+1
+gcc-11: fatal error: cannot execute ‘cc1’: execvp: No such file or directory
+compilation terminated.
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: /usr/bin/gcc-11 
+Build flags: 
+Id flags: -c 
+
+The output was:
+1
+gcc-11: fatal error: cannot execute ‘cc1’: execvp: No such file or directory
+compilation terminated.
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: /usr/bin/gcc-11 
+Build flags: 
+Id flags: -Aa 
+
+The output was:
+1
+gcc-11: fatal error: cannot execute ‘cc1’: execvp: No such file or directory
+compilation terminated.
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: /usr/bin/gcc-11 
+Build flags: 
+Id flags: -D__CLASSIC_C__ 
+
+The output was:
+1
+gcc-11: fatal error: cannot execute ‘cc1’: execvp: No such file or directory
+compilation terminated.
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: /usr/bin/gcc-11 
+Build flags: 
+Id flags: --target=arm-arm-none-eabi;-mcpu=cortex-m3 
+
+The output was:
+1
+gcc-11: warning: ‘-mcpu=’ is deprecated; use ‘-mtune=’ or ‘-march=’ instead
+gcc-11: error: unrecognized command-line option ‘--target=arm-arm-none-eabi’
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: /usr/bin/gcc-11 
+Build flags: 
+Id flags: -c;-I__does_not_exist__ 
+
+The output was:
+1
+gcc-11: fatal error: cannot execute ‘cc1’: execvp: No such file or directory
+compilation terminated.
+
+
+Checking whether the C compiler is IAR using "" did not match "IAR .+ Compiler":
+gcc-11: fatal error: no input files
+compilation terminated.
+Checking whether the C compiler is IAR using "" did not match "IAR .+ Compiler":
+gcc-11: fatal error: no input files
+compilation terminated.
+Detecting C compiler ABI info failed to compile with the following output:
+Change Dir: /home/anandchauhan/Desktop/C++ PROJECTS/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/gmake -f Makefile cmTC_706d0/fast && /usr/bin/gmake  -f CMakeFiles/cmTC_706d0.dir/build.make CMakeFiles/cmTC_706d0.dir/build
+gmake[1]: Entering directory '/home/anandchauhan/Desktop/C++ PROJECTS/build/CMakeFiles/CMakeTmp'
+/usr/bin/cmake: /lib/x86_64-linux-gnu/libcurl.so.4: no version information available (required by /usr/bin/cmake)
+Building C object CMakeFiles/cmTC_706d0.dir/CMakeCCompilerABI.c.o
+/usr/bin/gcc-11    -o CMakeFiles/cmTC_706d0.dir/CMakeCCompilerABI.c.o -c /usr/share/cmake-3.22/Modules/CMakeCCompilerABI.c
+gcc-11: fatal error: cannot execute 'cc1': execvp: No such file or directory
+compilation terminated.
+gmake[1]: *** [CMakeFiles/cmTC_706d0.dir/build.make:78: CMakeFiles/cmTC_706d0.dir/CMakeCCompilerABI.c.o] Error 1
+gmake[1]: Leaving directory '/home/anandchauhan/Desktop/C++ PROJECTS/build/CMakeFiles/CMakeTmp'
+gmake: *** [Makefile:127: cmTC_706d0/fast] Error 2
+
+
+
+
+Determining if the C compiler works failed with the following output:
+Change Dir: /home/anandchauhan/Desktop/C++ PROJECTS/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/gmake -f Makefile cmTC_65232/fast && /usr/bin/gmake  -f CMakeFiles/cmTC_65232.dir/build.make CMakeFiles/cmTC_65232.dir/build
+gmake[1]: Entering directory '/home/anandchauhan/Desktop/C++ PROJECTS/build/CMakeFiles/CMakeTmp'
+/usr/bin/cmake: /lib/x86_64-linux-gnu/libcurl.so.4: no version information available (required by /usr/bin/cmake)
+Building C object CMakeFiles/cmTC_65232.dir/testCCompiler.c.o
+/usr/bin/gcc-11    -o CMakeFiles/cmTC_65232.dir/testCCompiler.c.o -c "/home/anandchauhan/Desktop/C++ PROJECTS/build/CMakeFiles/CMakeTmp/testCCompiler.c"
+gcc-11: fatal error: cannot execute ‘cc1’: execvp: No such file or directory
+compilation terminated.
+gmake[1]: *** [CMakeFiles/cmTC_65232.dir/build.make:78: CMakeFiles/cmTC_65232.dir/testCCompiler.c.o] Error 1
+gmake[1]: Leaving directory '/home/anandchauhan/Desktop/C++ PROJECTS/build/CMakeFiles/CMakeTmp'
+gmake: *** [Makefile:127: cmTC_65232/fast] Error 2
+
+
+
